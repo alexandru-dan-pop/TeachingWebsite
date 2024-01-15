@@ -438,7 +438,7 @@ body {
 }
 
 hr {
-    background-color: #368a8a;
+    background-color: #8a3636;
     margin-top:5vh;
     margin-bottom:5vh;
 
@@ -507,7 +507,7 @@ hr {
 }
 
 .footer-distributed h3 span{
-    color:  lightseagreen;
+    color:  rgb(178, 32, 32);
 }
 
 /* Footer links */
